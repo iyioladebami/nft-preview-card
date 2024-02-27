@@ -24,9 +24,7 @@ section.container{
     justify-self:center;
     border-radius: 0.7em;
     scale: 0.85;
-    vertical-align: middle;
-    height: 100vh;
-}
+    }
 .imgwrap img{width: 100%;}
 .imgwrap{position: relative;
 cursor: grab;}
